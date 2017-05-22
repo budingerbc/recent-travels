@@ -1,0 +1,50 @@
+body {
+  background-image: url("https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg");
+}
+
+div.sidebar {
+  border: 1px solid gray;
+  padding: 2px;
+  margin: 2px;
+  background-color: skyblue;
+}
+
+div.outline {
+  border: 2px solid gray;
+  padding: 5px;
+  margin: 5px;
+  background-color: #3183a0
+
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  background-color: #0e323f;
+  color: white;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+
+}
